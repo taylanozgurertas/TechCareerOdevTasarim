@@ -1,0 +1,22 @@
+{
+    "appBarTitle": "Mind & Body",
+    "@appBarTitle": {
+        "description": "The AppBar's title"
+    },
+
+    "trainWithBest": "TRAIN WITH THE BEST",
+    "@trainWithBest": {
+        "description": "A big text on the background image"
+    },
+
+    "createPlan": "CREATE A PLAN",
+        "@createplan": {
+            "description": "A elevated button's big text"
+    },
+
+    "detailPage": "Detail Page",
+            "@detailpage": {
+                "description": "Detail page's title"
+    }
+
+}
